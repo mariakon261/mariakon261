@@ -1,11 +1,21 @@
-### Hi there 👋
+# Hi, I'm Maria! 👋
+
+## 💬 About Me
+
+- 🔭 Undergraduate student in the Department of Information and Electronic Engineering @ International Hellenic University (IHU).
+- 🚀 Interested in Full Stack Web Development.
+- 📫 How to reach me: mariakon261@gmail.com 
 
 
 
-- 🔭 I’m currently working on java projects and learning all the basic stuff
-- 🌱 I’m currently learning java!
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her!
-- ⚡ Fun fact: my favorite thing to do in my free time is playing the piano/guitar and anything that has to do with music!
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,postgresql,php,cpp,wasm)](https://skillicons.dev)
+
+
+## 🌱 Currently Exploring
+
+- 🎓 **Thesis:** Indoor Navigation using ESP32 (BLE) + Dijkstra's Algorithm.
+- 🧠 **Machine Learning:** RSSI Fingerprinting & KNN Classification for indoor localization.
+- 🌐 **Full Stack:** Building real-time web applications with React and Node JS.
+
 
